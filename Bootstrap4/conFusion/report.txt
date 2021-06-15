@@ -1,0 +1,18 @@
+1.- Website Goals:
+	The website is intended to promote a data science service.
+	The vallue it provides is the connection between potential customers to introduce what benefits data science can bring to their business.
+
+2.- Features:
+	-Home page.- Mission of the company and a brief summary of services and technologies used
+	-Contact page.- info for customers to contact the company
+	-Services.- a detailed page with the services and advantages they provide in a business
+
+3.- Survey:
+	By exploring different websites I can see that the most atractive ones are those that show with different images and icons the different services they provide and the technologies they use. Also some of them show the utility and application of certain technologies in a visual and attractive way.
+
+	The less apealing wites are those that only show paragraphs of information.
+
+4.- References:
+	https://www.scnsoft.com/services/data-science
+	https://thirdeyedata.io/data-sciences/
+	https://perfectial.com/services/data-science-services/

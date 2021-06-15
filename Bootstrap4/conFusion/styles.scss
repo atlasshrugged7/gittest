@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+@import "./font";
+@import "./variables";
+@import "./devaToolBox";
+@import "./materialTheme";
+
+span,li,p,input,a,button,label,select,textarea,h1,h2,h3,h4,h5{
+  font-family: "Helvetica Neue";
+
+}
+
+h1{
+    color:white;
+    font-size: 5.6em;
+    font-weight: bold;
+}
+h2{
+  font-size: 3em;
+  font-weight: bold;
+}
+
+@import "./material-override";
