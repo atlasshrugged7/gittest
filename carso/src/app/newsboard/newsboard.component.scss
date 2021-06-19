@@ -1,0 +1,54 @@
+.story-spacer {
+  flex: 1 1 auto;
+}
+
+.story-card{
+    margin-bottom: 30px;
+    border: 4px solid blue;
+
+}
+
+.story-header-image {
+  background-size: cover;
+}
+
+.title{
+    font-weight: bold;
+}
+
+
+.img-article {
+      height: 60%;  }
+
+
+.action-buttons{
+    text-align: center;
+}
+
+.story-container {
+    width: 90%;
+    height: auto;
+    margin: auto;
+    border: 1px solid;
+}
+
+.story-sidenav-content {
+    display: flex;
+    height: 75%;
+    align-items: center;
+    justify-content: center;
+}
+
+.story-sidenav {
+    padding: 20px;
+}
+
+.source-name {
+    margin-left:5px;
+}
+
+.list-item:hover{
+    cursor: pointer;
+    background-color: #3f51b5;
+    color: white;
+}
