@@ -13,14 +13,7 @@ export class NewsboardComponent implements OnInit {
 
   constructor(private newsapi:NewsApiService) {
     this.newsapi.initArticles().subscribe(data => this.stories = data['articles']);
-
-    let dateTime = new Date();
-    for(var i of this.stories){
-        i.publishedAt = dateTime.getTime() - i.publishedAt.getTime();
-    }
   }
   ngOnInit(): void {
   }
-
-
 }

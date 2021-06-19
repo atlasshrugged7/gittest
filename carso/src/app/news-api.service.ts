@@ -11,7 +11,6 @@ export class NewsApiService {
   constructor(private http:HttpClient) { }
 
   initArticles(){
-
    return this.http.get('https://newsapi.org/v2/top-headlines?q=Digital&apiKey='+this.api_key);
   }
 
